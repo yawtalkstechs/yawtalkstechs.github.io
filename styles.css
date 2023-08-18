@@ -22,7 +22,8 @@ body {
     font-weight: bolder;
     font-style: oblique;
     color: aliceblue;
-    background-color: chocolate;
+    background: linear-gradient(45deg, chocolate 0%, orange 30%, darkorange 60%);
+    
 }
 
 .myform {
